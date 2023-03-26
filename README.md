@@ -1,1 +1,1 @@
-# Multi-Class-Image-Classifier
+# Multi-class Image Classification Model
