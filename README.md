@@ -1,6 +1,6 @@
 # Multi-class Image Classification Model
 
-Multi-class image classifier built with pre-trained InceptionV3 model, Python, Tensorflow and Keras
+Multi-class image classifier built with pre-trained Xception model, Python, Tensorflow and Keras
 
 ## Usage Overview
 User can import dataset (currently using [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset) and label the images on the dataset
